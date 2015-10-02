@@ -12,7 +12,7 @@ public class Application implements CommandLineRunner {
 
     private static final Logger log = LoggerFactory.getLogger(Application.class);
 
-    //Beispielcommit im Branch, main-Methode funktioniert trotzdem zur Laufzeit
+    //repository müssen vlt noch konfiguriert werden. (Testkommentar)
     @Autowired
     CustomerRepository repository;
 
