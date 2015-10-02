@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4079684986">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - ValueInvestTracker.db" uuid="3d4b0051-ac0f-4d0f-81b9-66f0a3239bff">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../../Databases/ValueInvestTracker.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
