@@ -12,6 +12,7 @@ public class Application implements CommandLineRunner {
 
     private static final Logger log = LoggerFactory.getLogger(Application.class);
 
+    //repository müssen vlt noch konfiguriert werden. (Testkommentar)
     @Autowired
     CustomerRepository repository;
 
