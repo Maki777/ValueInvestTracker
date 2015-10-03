@@ -6,7 +6,14 @@
 
     <groupId>de.maki.markus</groupId>
     <artifactId>ValueInvestTracker</artifactId>
+    <packaging>pom</packaging>
     <version>SNAPSHOT - 0.0.2</version>
+    <modules>
+        <module>ValueInvestTracker_Common</module>
+        <module>ValueInvestTracker_Server</module>
+        <module>ValueInvestTracker_JavaClient</module>
+        <module>ValueInvestTracker_WebClient</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ValueInvestTracker.iml" filepath="$PROJECT_DIR$/ValueInvestTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueInvestTracker_Common/ValueInvestTracker_Common.iml" filepath="$PROJECT_DIR$/ValueInvestTracker_Common/ValueInvestTracker_Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueInvestTracker_JavaClient/ValueInvestTracker_JavaClient.iml" filepath="$PROJECT_DIR$/ValueInvestTracker_JavaClient/ValueInvestTracker_JavaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueInvestTracker_Server/ValueInvestTracker_Server.iml" filepath="$PROJECT_DIR$/ValueInvestTracker_Server/ValueInvestTracker_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueInvestTracker_WebClient/ValueInvestTracker_WebClient.iml" filepath="$PROJECT_DIR$/ValueInvestTracker_WebClient/ValueInvestTracker_WebClient.iml" />
     </modules>
   </component>
 </project>

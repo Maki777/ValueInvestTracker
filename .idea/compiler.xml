@@ -22,11 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ValueInvestTracker" />
+        <module name="ValueInvestTracker_Common" />
+        <module name="ValueInvestTracker_JavaClient" />
+        <module name="ValueInvestTracker_Server" />
+        <module name="ValueInvestTracker_WebClient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ValueInvestTracker" target="1.8" />
+      <module name="ValueInvestTracker_Common" target="1.8" />
+      <module name="ValueInvestTracker_JavaClient" target="1.8" />
+      <module name="ValueInvestTracker_Server" target="1.8" />
+      <module name="ValueInvestTracker_WebClient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
